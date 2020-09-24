@@ -5,8 +5,8 @@
 | :-------------               | :-------------       | :------------          |
 | Jon Clindaniel               | Yutao Chen           | Location: [Online](https://canvas.uchicago.edu/courses/31194)   |
 | 1155 E. 60th Street, Rm. 215 |                      | Monday/Wednesday       |
-| jclindaniel@uchicago.edu     | cytwill@uchicago.edu | 9:10-11:10 AM (CDT)    |
-| **Office Hours:** [Schedule](https://appoint.ly/s/jclindaniel/office-hours)\* | **Office Hours:** [TBD]()\* | **Lab:** Prerecorded, [Online](https://canvas.uchicago.edu/courses/31194) |
+| jclindaniel@uchicago.edu     | yutaochen1997@gmail.com | 9:10-11:10 AM (CDT)  |
+| **Office Hours:** [Schedule](https://appoint.ly/s/jclindaniel/office-hours)\* | **Office Hours:** [Schedule](https://appoint.ly/s/yutaochen1997/office_hours)\* | **Lab:** Prerecorded, [Online](https://canvas.uchicago.edu/courses/31194) |
 
 \* Office Hours held via Zoom
 
